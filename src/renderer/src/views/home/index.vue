@@ -31,7 +31,7 @@ export default {
     },
     methods: {
         to() {
-            window.location = 'https://github.com/aleversn/VFluentForElectron';
+            window.location = 'https://github.com/Creator-SN/VFluent3ForElectron';
         }
     }
 };
